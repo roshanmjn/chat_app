@@ -1,2 +1,7 @@
 node_modules
 .env
+public/node_modules
+public/.env
+
+server/node_modules
+server/.env
